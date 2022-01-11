@@ -1,0 +1,36 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "Create web-application on MongoDB, Express.js, React.js, Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "server": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexAltR/Web-app-on-MERN.git"
+  },
+  "keywords": [
+    "mern",
+    "react"
+  ],
+  "author": "AlexAltR <trud.resurs.altay@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexAltR/Web-app-on-MERN/issues"
+  },
+  "homepage": "https://github.com/AlexAltR/Web-app-on-MERN#readme",
+  "dependencies": {
+<<<<<<< HEAD
+    "config": "^3.3.6",
+=======
+>>>>>>> 643c30d730fe758d510f8ca5a1fa4ff3548df5fb
+    "express": "^4.17.2",
+    "mongoose": "^6.1.5"
+  },
+  "devDependencies": {
+    "concurrently": "^7.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
